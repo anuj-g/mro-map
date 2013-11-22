@@ -19,4 +19,4 @@ An interactive Mro language map would be impossible without:
 * Bengali names for divisions from Wikipedia (English and Bengali)
 * <a href="http://mapbox.com/tilemill">TileMill</a> and <a href="http://mapbox.com">MapBox</a>
 * Dane Springmeyer's work on <a href="https://github.com/springmeyer/mro-unicode-mapnik">Mro in Mapnik</a> and answering other questions in <a href="https://github.com/mapbox/tilemill/issues/2138">this GitHub issue</a>
-* The <a href="http://endangeredalphabets.com">Endangered Alphabets</a> project
+* The <a href="http://endangeredalphabets.com">Endangered Alphabets</a> project and <a href="http://www.kickstarter.com/projects/1496420787/endangered-alphabets-ii-saving-languages-in-bangla">Kickstarter</a>
