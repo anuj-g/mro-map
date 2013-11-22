@@ -1,5 +1,7 @@
 ## Mro Map
 
+<img src="https://raw.github.com/mapmeld/mro-map/master/screenshot.png"/>
+
 This is the code and data behind the first-of-its-kind interactive map of Bangladesh in Mro language. Mro is written in a script which
 is not yet officially encoded for computers, so making a map is tricky.
 
